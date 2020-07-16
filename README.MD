@@ -15,7 +15,7 @@ TransferLearning_OSF_wavelet.ipynb (85% accuracy)
 3. Transfer learning with pretrained VGGish network based on Google [AudioSet](https://research.google.com/audioset/index.html)  
 VGGish-TransferLearning_OSF_Melspectrograms.ipynb (74% accuracy)
 
-Due to timing I didn't do much tuning on hyperparameters. Based on the current results, transfer learning using pretrained VGG16 network has the best performance in terms of acuuracy and confusion matrix, although it takes the longest training time. I believe all the models would perform better given more time for tuning.  
+Due to timing I didn't do much tuning on hyperparameters. Based on the current results, transfer learning using pretrained VGG16 network has the best performance in terms of accuracy and confusion matrix, although it takes the longest training time. I believe all the models would perform better given more time for tuning.  
 
 ## Reference:
 
